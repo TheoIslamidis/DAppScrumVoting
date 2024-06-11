@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DAppScrumVoting/static/css/main.ff02f4b5.css",
+    "main.js": "/DAppScrumVoting/static/js/main.752a973e.js",
+    "static/js/453.434873a9.chunk.js": "/DAppScrumVoting/static/js/453.434873a9.chunk.js",
+    "index.html": "/DAppScrumVoting/index.html",
+    "main.ff02f4b5.css.map": "/DAppScrumVoting/static/css/main.ff02f4b5.css.map",
+    "main.752a973e.js.map": "/DAppScrumVoting/static/js/main.752a973e.js.map",
+    "453.434873a9.chunk.js.map": "/DAppScrumVoting/static/js/453.434873a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.752a973e.js"
+  ]
+}
